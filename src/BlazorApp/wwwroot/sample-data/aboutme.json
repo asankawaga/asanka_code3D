@@ -1,10 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a civil engineering professional specialised with Digital constructon practices of marine works (Dredging, land reclamation, breakwater, etc)",
   "skills": [
-    "Construction and planning of Dredging and Reclamation projects",
-    "Customised Integrated Dgital Delivary proceedures.",
-    "Autodesk Civil 3D technology enhanced and productivity tools development",
-    "Autodesk Construction cloud linked webapp development"    
+    "Construction and planning of dredging and reclamation projects",
+    "Customized integrated digital delivery procedures (CORENETx)",
+    "Building information modelling (ISO19650, PAS1190, Singapore BIM Guide, etc..",
+    "Development of productivity tools leveraging Autodesk Civil 3D technology",
+    "Web application development integrated with Autodesk Construction Cloud",
+    "Autodesk Construction Cloud"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving construction BIM/IDD/VDC related issues and propose strong feasible solutions leveraging digital tools and 3D modelling and data management packages."
 }
